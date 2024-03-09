@@ -2,6 +2,9 @@
 
 Welcome to my Modern Blog App – a robust and fully responsive #HeadlessCMS-driven blog application. Created using React JS, NextJS, Tailwind CSS, GraphQL, and integrated with hygraphCMS, this project reflects my passion for crafting dynamic and feature-rich blog platforms.
 
+## Screenshots
+
+![App Screenshot](/Users/ashvinipatidar/Desktop/Blog/journal/Screenshot 2024-03-09 at 12.48.23 PM.png)
 
 ## Features
  
@@ -31,9 +34,7 @@ Welcome to my Modern Blog App – a robust and fully responsive #HeadlessCMS-dri
 
 
 
-# Running Tests
-
-To run this Blog App on your local machine, follow these steps:
+# To run this Blog App on your local machine, follow these steps:
 
 ## Prerequisites
 Ensure that you have the following installed on your system:
