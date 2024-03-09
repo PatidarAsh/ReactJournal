@@ -4,7 +4,7 @@ Welcome to my Modern Blog App – a robust and fully responsive #HeadlessCMS-dri
 
 ## Screenshots
 
-![App Screenshot](journal/Screenshot 2024-03-09 at 12.48.23 PM.png)
+![App Screenshot](journal/public/project.png)
 
 ## Features
  
